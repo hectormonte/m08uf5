@@ -8,13 +8,16 @@ h2 {
   color: purple;
 }
 h3 {
-  color: pink;
+  color: green;
 }
 h4 {
   color: red;
 }
 h5 {
   color: blue;
+}
+h6 {
+  color: yellow;
 }
 p {
   color: blue;
